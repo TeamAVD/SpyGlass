@@ -33,3 +33,11 @@ There aren't any yet but feel free to use the issues to ask away!
 
 ### Help & Support
 ### Contact
+
+### Credits
+• SPCK Editor (code editor with live preview)  
+• FlatIcon (icons)  
+• GitHub (source & hosting)  
+• Polish Editor (branding & design)  
+• Termux (testing)  
+• Niotron (Android WebView builder)  
