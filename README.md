@@ -13,15 +13,15 @@ The app is a simple WebView APK that loads the files hosted on the GitHub pages 
 You should be all set up!
 
 ### Features
-• Posts (text, image, video, audio): Users can view each other's posts as well as create and upload Their own.
-• Direct & group messaging / calls: Users can send messages to each other directly or in groups. This includes voice notes and media such as images, GIF's, videos and audio. Voice calls are also supported.
-• Stories: Users can upload media which can be publicly viewed as a story.
-• Profile management: Users can edit Their handle, username, gender, age, D.O.B, sexuality, profile picture, profile banner and occupation.
+• Posts (text, image, video, audio): Users can view each other's posts as well as create and upload Their own.  
+• Direct & group messaging / calls: Users can send messages to each other directly or in groups. This includes voice notes and media such as images, GIF's, videos and audio. Voice calls are also supported.  
+• Stories: Users can upload media which can be publicly viewed as a story.  
+• Profile management: Users can edit Their handle, username, gender, age, D.O.B, sexuality, profile picture, profile banner and occupation.  
 • Settings: Privacy, Security, Account, Profile, Theming, Media, etc.
 
 **Possible future features:**
-• Live: Users will be able to create or watch live streams. This could include a gifting / levelling system, similar to TikTok.
-• Shorts feed: A feed consistent of short-form videos that support likes, dislikes, comments, following the Creator, reposting, sharing and reporting.
+• Live: Users will be able to create or watch live streams. This could include a gifting / levelling system, similar to TikTok.  
+• Shorts feed: A feed consistent of short-form videos that support likes, dislikes, comments, following the Creator, reposting, sharing and reporting.  
 • Premium: A cheap subscription that offers perks such as hidden typing status, hiding online status, hide message read receipts, a premium badge on Users profiles, extended custom themes, plugins access and more.
 
 ### Notes
